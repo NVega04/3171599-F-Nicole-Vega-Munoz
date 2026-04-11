@@ -2,11 +2,6 @@
 
 API REST desarrollada con **FastAPI** para la gestión de **servicios de traducción profesionales**. Proyecto correspondiente a la Semana 04 del bootcamp.
 
-![Python](https://img.shields.io/badge/Python-3.12-blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.128+-green)
-![Docker](https://img.shields.io/badge/Docker-Compose-blue)
-![uv](https://img.shields.io/badge/uv-dependency%20manager-orange)
-
 ## Descripción
 
 Esta API permite:
@@ -110,10 +105,3 @@ Transiciones permitidas:
 - **certified**: Traducción jurada certificada
 - **legal**: Documentos legales especializados
 - **technical**: Manuales y documentación técnica
-
-# Autor
-
-Yohan
-Bootcamp FastAPI - Semana 04
-Bogotá, Colombia - Marzo 2026
-¡Gracias por revisar! 🚀
